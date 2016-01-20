@@ -1,0 +1,128 @@
+#wrapper{
+	background:url(../img/core/signature-bg-pattern-body-color.jpg) no-repeat center bottom #000;
+	background-size:100% 100%;
+}
+.block_background_top{
+	background:url(../img/core/signature-bg-pattern-1.png) no-repeat center center;
+}
+.block_background_recommended{
+	background:url(../img/core/signature-bg-pattern-recommended.png) no-repeat center center;
+}
+.block_background1{
+	background:url(../img/core/signature-bg-pattern-1.png) no-repeat center center;
+}
+.block_background2{
+	background:url(../img/core/signature-bg-pattern-2.png) no-repeat center center;
+}
+.block_background3{
+	background:url(../img/core/signature-bg-pattern-3.png) no-repeat right center;
+}
+.block_background4{
+	background:url(../img/core/signature-bg-pattern-4.png) no-repeat center center;
+}
+.block_background5{
+	background:none;
+}
+.block_background_pure{
+	background:none;
+}
+.block_background_body_bottom{
+	background:url(../img/core/signature-bg-pattern-bottom.png) no-repeat center bottom;
+}
+.block_background_schedule{
+	background:url(../img/core/signature_schedule_box.jpg) repeat-y top center;
+}
+.block_background_default{
+	padding:20px 0 20px 0;
+}
+.schedule_timeline_odd, .schedule_timeline_even{
+	background-position:0 -256px;
+}
+
+.font_block_header{
+	color: #FFF;
+}
+/*.highlight_block_line*/
+.menu_line{
+	border-bottom: solid 2px #30346b;
+}
+
+.about_show_timer_box div.font_header, .about_show_menu a.selected, .shows_font, .show_thumb_title, a.font_content:hover, .font_show_name, .schedule_timer_list a.selected, .schedule_time_section a.selected, .shows_listing_tbl td a, .shows_listing_tbl th a, ol.numberic_bullet_listing li{
+	color:#fffc09 !important;
+}
+.view_more_btn{
+	background-color:#fffc09;
+	border:1px solid #c7c500;
+}
+.shows_listing_tbl th, .shows_listing_view_thumb.selected, .shows_listing_view_list.selected{
+	background-color:#fffc09;
+}
+.marquee_nav_thumbnail_selected {
+	border: solid 2px #fffc09;
+}
+.back_to_top{
+	float:right;
+	padding-right:15px;
+	background:url(../img/core/back_top_arrow.png) no-repeat right -97px;
+}
+#block_schedule_nav_left {
+	background-position: -187px -130px;
+}
+#block_schedule_nav_right {
+	background-position: -227px -130px;
+}
+#marquee_nav_container{
+	background: url(../img/core/demand-marquee-nav-tip.png) center top no-repeat;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+.ep_highlight_link_block a.selected{
+	background-color: #fffc09;
+	border: 1px solid #c7c500;
+	color:#000;
+}
+.glow{
+	background:none;
+	display:none;
+}
+
+/* Button */
+.hboCommonBtn span {
+	background-position: right -46px;
+	color:#fffc09;
+}
+.hboCommonBtn {
+	background-position:left -46px;
+}
+
+.coutry_sel div.tag_select {
+	background: transparent url(../img/core/signature-dropdown-box.png) no-repeat 0 0;
+	color:#FFF;
+}
+.coutry_sel div.tag_select_open {
+	background: transparent url(../img/core/signature-dropdown-box.png) no-repeat 0 0px;
+	color:#FFF;
+}
+.coutry_sel ul.tag_options {
+	background: transparent url(../img/core/signature-dropdown-box.png) no-repeat right bottom;
+	color:#FFF;
+}
+.coutry_sel ul.tag_options li {
+	background: transparent url(../img/core/signature-dropdown-box.png) repeat-y -188px 0;
+	color: #FFF;
+}
+.coutry_sel ul.tag_options li:hover{
+	background:none #FFF !important;
+	color: #000;
+}
+
+/* Page navigation */
+.page_nav_bottom_line{
+	background: url(../img/core/signature_nav_bottom_line.jpg) repeat-y;
+	height:2px;
+	background-color:#2e1401;
+	background-size: 100% auto;
+}
+.page_nav_bottom_line_position_signature_8, .page_nav_bottom_line_position_signature_7, .page_nav_bottom_line_position_signature_6, .page_nav_bottom_line_position_signature_5, .page_nav_bottom_line_position_signature_4, .page_nav_bottom_line_position_signature_3, .page_nav_bottom_line_position_signature_2, .page_nav_bottom_line_position_signature_1
+{
+	background-position:-140px top;
+}

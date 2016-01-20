@@ -1,0 +1,86 @@
+<?php
+include("config.php");
+?>
+<?php include("mainheader.php"); ?>
+<body>
+    <div id="wrapper">
+        <?php include_once("header.php"); ?>
+        <div id="block_schedule_header" class="clearfix movie_title">
+            <div class="container clearfix font_content font_block_header shows_font special_font title_block">
+                <div class="page_title">HBO Lego Movie contest ("Contest Rules")</div>
+                <div class="glow glow_position"></div>
+            </div>
+        </div>
+
+        <div class="block_container" style="min-height: 200px;">
+            <div class="container clearfix section group">
+                <div class="font_content font_block_header shows_font special_font channel_section_header bottom_spacing">
+
+                    <p><strong>"HBO Lego Movie contest&quot; </strong>("Contest") will be held by Turner  International India Private Limited ("Promoter") in relation to the movie aired  on the television programming service known as HBO ("Channel") as stated  hereunder:</p>
+                    <p>1. The Contest will be held from 1:00 p.m. to 12:00 a.m. (midnight) on April 26, 2015 ("Contest Day") on the Channel. The Contest details shall also be available on the website <a href="http://www.hbosouthasia.com/LegoOnHBO/" class="shows_font" target="_blank">#LegoOnHBO</a>. By entering this Contest voluntarily, the contestant(s) accept these Contest Rules and the General Rules appended below. </p>
+                    <p>2. The viewer(s) desirous of participating in the Contest will be required to watch movie on the channel at 1:00 p.m. and 9:00 p.m. on the Contest Day. The contestant(s) will have to have to tweet or post the hashtag #LegoOnHBO during the airing of the film 'The Lego Movie' on Sunday. </p>
+                    <p>3. The Channel or the Promoter reserves the right to change the schedule of the Contest including but not limited to telecast of the movie(s) aired during the Contest Day, the date of telecast of the movie(s), the time of telecast of the movie(s) etc. It shall be the sole responsibility of the contestant(s) to check the program schedule and/or the Contest. </p>
+                    <p>4.  All costs, charges and expenses for participation in the Contest will be solely borne by the contestant(s) including internet charges. The Channel and the Promoter shall not be responsible in case of any network or technical problems including without limitation the breakdown of machinery, unclear network, disruption in the network and/or usage of internet/bandwidth. Any dispute in connection to the same should be settled directly between the contestant(s) themselves and the network operator without involving the Channel or the Promoter. </p>
+                    <p>5. All the entries from the contestant(s) should state all the required information and personal details, and the contestant(s) shall have no objection to providing such personal information, which have been asked from the contestant(s) failing which that particular entry shall be disqualified.</p>
+                    <ol>
+                        <li>
+                            During the Contest Day the Promoter will select winners as those with maximum tweets on Twitter or Posts on Facebook (each "a Winner<strong><em>" </em></strong>and collectively "the Winner(s)<strong><em>"</em></strong>). Each Winner will receive one of the following prizes (each "a Prize<strong><em>" </em></strong>and collectively "the Prizes")             
+                        </li>
+                        <li>Canon DSLR camera (each).</li>
+                    </ol>
+                    <p>6. The Promoter will therefore select a total of 2 (two) Winners of the Contest i.e. 1 (one) Winner from the movie aired at 1:00 p.m. and 1 (one) Winner from movie aired at 9:00 p.m. The 2 (two) winners will be selected out of the tweets and posts received during the duration of the movie aired at 1:00 p.m. and 9:00 p.m. respectively.</p>
+                    <p>7. The names of the Winners shall be announced on or before May 8, 2015.The Promoter shall be responsible for paying all applicable mandatory taxes on the Prizes won in this Contest.</p>
+                    <p>8.Only Winners shall be notified. The Winners shall be informed/ contacted by the Promoter only and will reflect on the website  <a href="http://www.hbosouthasia.com/LegoOnHBO/" class="shows_font" target="_blank">#LegoOnHBO</a> and on official media channels i.e. Facebook <a href="https://www.facebook.com/HBOIndia" class="shows_font" target="_blank">https://www.facebook.com/HBOIndia</a> and Twitter <a href="https://twitter.com/HBOINDIA" class="shows_font" target="_blank">https://twitter.com/HBOINDIA</a>. Each of the Winner(s) of the Contest will be awarded the Prize(s). The Winner(s) will be notified by (i) SMS to the mobile telephone number submitted with such Prize Winners’ entry; or (ii) to the email address submitted by such Prize Winner’s entry. The Channel and/or the Promoter reserve the right to use any other method or medium deemed fit in its sole and absolute discretion for the purpose of announcing the Winners.</p>
+                    <p>9.  The Prizes and the Prize letter will be couriered by the Promoter to the Winner(s) at their address given at registration for the Contest after the Winners are announced on May 8, 2015.</p>
+                    <p>10. No other Prize or compensation (monetary or otherwise) shall be awarded to the Winner(s).</p>
+                    <p>11. The Promoter is solely responsible for arranging and awarding the Prizes for the Contest. Therefore, the Promoter shall have the sole right to make any decision relating the Prizes including but not limited to decide or change the package inclusions of the Prizes, the dates, the venue, the accommodation etc. In the event, any change is made by the Promoter the Winner(s) shall not be entitled to claim any damages or any kind of monies from the Promoter or the Channel. All decisions made by the promoter and/ or the Channel in connection to the aforesaid shall be final and binding on the Winner(s).</p>
+                    <p>12. The Promoter’s decision is based on a set of pre-determined criteria and their decision will be final and binding. No correspondence will be entered into about the Contest or the Promoter’s decision(s). The Prize(s) are not transferable and not redeemable for cash. The Promoter accepts no responsibility for any variation in the value of the Prizes (or any part of them) or for lost, damaged or misdirected Prizes or mail. The Promoter reserves the right to substitute any Prizes (or any part of them) for an item of similar value. The specifications and brand (as applicable) of the Prize(s) may change midway, before or after the commencement of the Contest at the sole discretion of the Promoter. Neither the Channel nor the Promoter is responsible for the service and support of the Prize(s) after they are delivered to the Winners.</p>
+                    <p>13. If a Prize is declined, unclaimed or unable to be claimed, or if the Winners cannot be contacted from the details supplied, the Promoter may, at its sole discretion, select the next best and valid entry from the entries received as an alternative Winner.</p>
+                    <p>14. A Prize is non-transferable and is not redeemable for cash equivalent or any other items. A Prize has to be used by the Winner(s) failing which the Prize shall stand forfeited.</p>
+                    <p>15. By participating in the Contest, it shall be construed that the contestant(s), the Winners of the Prize have waived their right to raise any dispute with regard to the Prize and/or in any manner whatsoever in connection to the Prize.</p>
+                    <p>16. For the avoidance of doubt, the Channel shall not be responsible for any reason whatsoever in connection with the Contest, the Promoter’s organisation of the Contest, the Prizes or the Winners.</p>
+                    <p>17. The Promoter may in its sole discretion not award the Prize to the Winner(s), if the Winner(s) is unable to produce documentation required by the Promoter at any given point of the time or if the Winner(s) cheats or commits a fraud or is dishonest etc.</p>
+                    <p>18. The contestant(s) shall abide by all the laws of India and shall indemnify and hold harmless the Channel and/or the Promoter in relation to any non-compliance thereof.</p>
+                    <p>19. The decision of the Channel and/or the Promoter shall be final and binding on all the contestant(s) and by participating in the Contest, it shall be construed that the contestant(s) has waived his/her right to raise any dispute against any decision made by the Channel and/or the Promoter.</p>
+
+                    <div class="font_bold">General Rules</div>
+
+                    <p>1. The contestants should be citizens of India, residing in India and above 18 years of age to qualify for the Contest. The contestants should not have criminal conviction.</p>
+                    <p>2. Neither the contestants nor the Winner(s) should have any civil or criminal conviction or should not be bound by any contract or agreement that would not permit the contestant from participating in the Contest.</p>
+                    <p>3. The contestant whose name the mobile number is registered with a network operator shall be eligible to participate in the Contest. Consequently, the Winner(s) whose name the mobile number is registered with a network operator shall be entitled to the Prize(s).</p>
+                    <p>4. The Winner(s) must submit to the Promoter a copy of the last two bills issued by the network operator as a proof that the mobile number is registered in the name of the Winner(s) and such other documents that could be furnished as proof that the mobile number is registered in the name of the Winner.</p>
+                    <p>5. Proof of age is a must for the contestant and must be submitted to the Promoter (i.e., Birth Certificate, Class 10 leaving Certificate/ School certificate/ passport/ an affidavit signed by a magistrate). Upon request, the Winner(s) may also be required to provide their contact details, passport/identity number, proof of residence, etc., and or any other details deemed necessary and relevant by the Channel and/or the Promoter in its sole discretion prior to the collection of any Prize(s) or as part of the contest entry mechanism.</p>
+                    <p>6. All Prizes must be claimed by the Winners, along with the documents specified herein below. The documents required to be submitted to the Promoter along with the claim by the Winners include the following (the document list is only inclusive and not exhaustive and can change as per the requirements of Law):</p>
+                    <ol>
+                        <li> Identity proof and age proof</li>
+                        <li> Address Proof</li>
+                        <li> PAN Card</li>
+                        <li> Letter of compliance with Contest rules and declarations in the format as may be required by Promoter.</li>
+                        <li> Letter of acceptance of prize</li>
+                        <li> Waiver form</li>
+                    </ol>
+                    <p>7. The Promoter reserves all rights to make amendments to the existing Contest Rules and these General Rules without prior notice or to withdraw the Contest without prior notice for any reason whatsoever.</p>
+                    <p>8. The Winner(s) shall be responsible to collect and coordinate with the Promoter in connection to the Prize(s). Promoter shall be solely responsible for the Prize(s). The return of any Prize(s) or any Prize notification as undeliverable, or any inability of the Promoter to contact a Winner(s), may, at the sole and absolute discretion of the Promoter, result in the disqualification of that Winner(s) and the selection of an alternate Winner(s).</p>
+                    <p>9. Non-conformance by any  contestant and/or the Winners, of the Contest rules or of the General Rules  shall disqualify the contestant and/or the Winner from participation or  winning, immediately, as the case may be. Such a decision shall be final and  binding on the contestant and/or the Winners.</p>
+                    <p>10. The contestant(s) agree that the Prize cannot be exchanged with other items and/or exchanged for cash equivalent. The Winner further agrees that the Winner shall not dispute the value of the Prize so offered to the Winner upon the Winner winning the Contest. If the Winner refuses to accept the Prize offered, neither Channel nor the Promoter shall be responsible for the same and the Channel and the Promoter, all shall be released from any and all obligations towards the Winner in connection to the Prize won by the Winner. In such an event, the Promoter shall have the right to declare another person as the Winner of the Contest and transfer the Prize to that person.</p>
+                    <p>11. The Winner of the Contest agree that he/she shall make himself/herself available from time to time and co-operate with the Channel and/or the Promoter and participate in any activity and/or campaign (Promotional Activity) of any nature whatsoever without any money payable to the Winners. Further, the Winners shall at no point of time refuse or disagree to participate in any such promotional activity for any reason whatsoever. The Winner(s) agree that the footage or any recording (audio or video) of any nature with regard to them shall vest with the Promoter, including but not limited to all intellectual property rights and any other rights for worldwide and in perpetuity.</p>
+                    <p>12. Further, participation of the contestants in the Contest shall be construed that the contestant(s) has waived her/his right to file in person and/or through any family member and/or third party any applications, criminal and/or civil proceedings in any courts or forum against the Channel, and/or the Promoter or to claim any damages or reliefs or otherwise.</p>
+                    <p>13. The Winner(s) agrees that if due to any reason, whatsoever, beyond the control of the Channel and/or the Promoter, the Prize and/or anything relating to the Prize and/or the enjoyment of the Prize and/or anything included the Prize becomes ineffective or invalid, neither the Channel nor the Promoter shall be held responsible for the same.</p>
+                    <p>14. Neither the Channel nor the Promoter is in any manner whatsoever responsible and/or liable in any manner whatsoever, for any physical injury, death, mental trauma caused to the any of the Winners or any person related to them, in any manner whatsoever, including but not limited to in relation to the Contest and/or Prize.</p>
+                    <p>15. Employees of the Channel, the Promoter and the members of their immediate family or any persons with criminal convictions or persons, are ineligible to participate in the Contest.</p>
+                    <p>16 All contestant(s), the Winners shall do any and all acts and execute any and all documents in such manner and at such location as may be required by Channel and/or the Promoter in its sole discretion to protect, perfect or enforce any of the rights granted or confirmed to the Channel and/or the Promoter herein.</p>
+                    <p>17. All contestant(s) agree to abide by the Contest Rules including the General Rules.</p>
+                    <p>18. Participation of the contestant(s) in the Contest shall be construed that the contestant(s), the Winner(s) have waived his/her right to dispute any decision(s) made by the Channel or the Promoter in connection to the Contest and that the contestant(s) agrees to all the decision(s) made by the Channel or the Promoter and that all the decision(s) shall be final and binding upon the contestant(s). </p>
+                    <p>19. If the Winner(s) is required to pay any kind of taxes, including gift tax, duties, charges, levies to the Indian Government in relation to the Prizes as required under law, the same shall be solely and exclusively borne by the Winners.</p>
+                    <p>20. The Promoter reserves the right to forfeit the Prize in the event it is found by the Promoter that any information provided by the contestant(s) or the Winners is wrong or any misrepresentation is made by the contestant(s) or the Winners. The Promoter shall have the right to declare another person as the Winner(s) of the Contest and transfer the Prize to that person.</p>
+                    <p>21. The participation of the contestant(s) in the Contest shall mean that the contestant(s) has read, understood, accepted and agrees to abide with all the Contest Rules including the General Rules.</p>
+                    <p>22. The terms of the Contest Rules and of the General Rules shall be construed in accordance with the laws of India and the courts of New Delhi have sole and exclusive jurisdiction.</p>
+                </div>
+            </div>
+        </div>
+        <?php include("footerlink.php"); ?>  
+        <?php include("copyright.php"); ?> 
+    </div>
+<?php include("footeranalytics.php"); ?>
+</body>
+</html>

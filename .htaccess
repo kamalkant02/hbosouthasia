@@ -1,0 +1,36 @@
+ErrorDocument 404 /404.php
+
+
+
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule movie-(.*)-(.*)\.php$ moviepreview.php?id=$2
+
+
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule (.*)-movies.php$ category.php?q=$1
+
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{REQUEST_URI} ^/index\.php/
+RewriteRule ^index.php/(.*) /$1 [R,L]
+Redirect 301 /schedule.php /movie-schedule.php
+Redirect 301 /index.php/home /404.php
+Redirect 301 /index.php/about/moviepreview.php /404.php
+Redirect 301 /index.php/misc_page/images/ /404.php
+Redirect 301 /index.php/webmovie/ajaxGetNextSevenDaysMovie /404.php
+Redirect 301 /index.php/webmovies/images/uploads/jun12/poster/banners/banners/watch-n-win-banner-on-hbo.swf /404.php
+
+Redirect 301 /godzilla-spotted/ /
+Redirect 301 /LegoOnHBO/ /
+Redirect 301 /selfieinspace/ /
+Redirect 301 /lego_tnc.php /
+Redirect 301 /banners/watch-n-win-banner-on-hbo.swf /
+Redirect 301 /transporter-tnc/ /
+Redirect 301 /godzilla-on-hbo/ /
+Redirect 301 /banners/watch-n-win-banner-on-hbo.swf /
+Redirect 301 /godzilla-spotted/terms-and-conditions.php /
+Redirect 301 /LegoOnHBO/lego-flash.php /
+
+

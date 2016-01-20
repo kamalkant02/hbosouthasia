@@ -1,0 +1,526 @@
+#wrapper{
+	background-color:#ffbd1e;
+}
+.block_background_top{
+	background:url(../img/core/cinemax-bg-pattern-1.png) no-repeat center center;
+}
+.block_background_recommended{
+	background:url(../img/core/cinemax-bg-pattern-recommended.png) no-repeat center center;
+}
+.block_background1{
+	background:url(../img/core/cinemax-bg-pattern-1.png) no-repeat center center;
+}
+.block_background2{
+	background:url(../img/core/cinemax-bg-pattern-2.png) no-repeat left center;
+}
+.block_background3{
+	background:url(../img/core/cinemax-bg-pattern-3.png) no-repeat center center;
+}
+.block_background4{
+	background:url(../img/core/cinemax-bg-pattern-4.png) no-repeat center center;
+}
+.block_background5{
+	background:none;
+}
+.block_background_pure{
+	background:none;
+}
+.block_background_default{
+	padding:20px 0 20px 0;
+}
+.block_background_body_bottom{
+	background:url(../img/core/cinemax-bg-pattern-bottom.jpg) no-repeat center bottom;
+}
+.block_background_schedule{
+	background:url(../img/core/cinemax_schedule_box.png) repeat-y top center;
+}
+
+.schedule_timeline_odd, .schedule_timeline_even{
+	background-position:0 -64px;
+}
+
+#block_schedule_channel_list a{
+	text-decoration:none;
+}
+.about_show_timer_box div.font_header, .shows_font, .show_thumb_title, a.font_content:hover, .font_show_name, .schedule_timer_list a.selected, .schedule_time_section a.selected, .shows_listing_tbl td a, .shows_listing_tbl th a{
+	color:#ffbb1c !important;
+}
+.about_show_menu a.selected{
+	font-weight:600;
+}
+.special_font, .about_show_menu a.selected,  a.font_cin.font_content:hover, ol.numberic_bullet_listing li, .subscribe_contries_operators, ul.bullet_listing li, .about_show_menu a{
+	color:#382c1c !important;
+}
+a.special_font{
+	text-decoration:underline;
+	color:#000 !important;
+}
+.cinemax_selected_url, .schedule_time_section a.selected{
+	font-weight:600;
+}
+a.shows_font.special_font, .schedule_time_section li.shows_font.special_font a, .schedule_time_section a.selected{
+	color:#000 !important;
+}
+.subscribe_highlight_box, .subscribe_highlight_box .shows_font.special_font{
+	color:#FFF !important;
+}
+.view_more_btn, .ep_highlight_link_block a.selected{
+	background-color:#54442f;
+	border:1px solid #382c1c;
+	color:#FFF;
+}
+.shows_listing_tbl th, .shows_listing_view_thumb.selected, .shows_listing_view_list.selected{
+	background-color:#fff000;
+}
+.marquee_nav_thumbnail_selected {
+	border: solid 2px #ffbb1c;
+}
+#marquee_nav_container{
+	background: url(../img/core/cinemax-marquee-nav-tip.png) center top no-repeat;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+.back_to_top{
+	float:right;
+	padding-right:15px;
+	background:url(../img/core/back_top_arrow.png) no-repeat right -36px;
+}
+.show_divider{
+	border-color:#382c1c;
+}
+
+.channel_section_header.top_spacing{
+	padding-top:67px;
+}
+.plain_content_section_header{
+	padding-top:50px;
+}
+.glow{
+	background:none;
+	display:none;
+}
+.menu_line{
+	border-bottom: solid 2px #382c1c;
+}
+
+
+.show_available_on_hbohd {
+	background-position: -190px -580px;
+}
+.show_available_on_duallanguage {
+	background-position: -280px -580px;
+}
+.show_available_on_demand {
+	background-position: -370px -580px;
+}
+
+/* Cinemax Title Tab */
+#special_title_schedule {
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left top; 
+	width:236px; height:67px;
+	left: -25px;
+	bottom: -60px;
+	display:block;
+}
+#special_title_thisweek{
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -67px; 
+	width:236px; height:67px;
+	left: -25px;
+	top: 18px;
+	display:block;
+}
+#special_title_hbooriginal{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -134px; 
+	width:236px; height:67px;
+	left: -25px;
+	top: 18px;
+	z-index:99;
+	display:block;
+}
+#special_title_HBO{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -201px; 
+	width:236px; height:67px;
+	left: -25px;
+	top: 15px;
+	z-index:99;
+	display:block;
+}
+#special_title_Family{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -335px; 
+	width:236px; height:67px;
+	left: -25px;
+	top: 15px;
+	z-index:99;
+	display:block;
+}
+#special_title_Signature{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -268px; 
+	width:236px; height:67px;
+	left: -25px;
+	top: 15px;
+	z-index:99;
+	display:block;
+}
+#special_title_Hits{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -402px; 
+	width:236px; height:67px;
+	left: -25px;
+	top: 15px;
+	z-index:99;
+	display:block;
+}
+#special_title_OnDemand{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -1139px; 
+	width:236px; height:67px;
+	left: -25px;
+	top: 15px;
+	z-index:99;
+	display:block;
+}
+#special_title_time{
+	position:absolute;
+	z-index:99;
+	left:223px;
+	bottom:-36px;
+	display:block;
+}
+#special_title_highlights{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -469px; 
+	width:236px; height:67px;
+	z-index:99;
+	left: -25px;
+	top: 15px;
+	display:block;
+}
+#special_title_shows_listing{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -536px; 
+	width:236px; height:67px;
+	z-index:99;
+	left: -25px;
+	top: 15px;
+	display:block;
+}
+#special_title_you_may_also_like{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block_long.png) no-repeat left 0px; 
+	width:304px; height:75px;
+	z-index:99;
+	left: -25px;
+	top: 15px;
+	display:block;
+}
+#special_title_time_this_week{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block_long.png) no-repeat left -75px; 
+	width:304px; height:75px;
+	z-index:99;
+	left: -25px;
+	top: 15px;
+	display:block;
+}
+#special_title_subscribe{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -603px; 
+	width:236px; height:67px;
+	z-index:99;
+	left: -25px;
+	bottom: -75px;
+	display:block;
+}
+#special_title_newsletter{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -1005px; 
+	width:236px; height:67px;
+	z-index:99;
+	left: -25px;
+	bottom: -75px;
+	display:block;
+}
+#special_title_unsubscribe_newsletter{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -1005px; 
+	width:236px; height:67px;
+	z-index:99;
+	left: -25px;
+	bottom: -75px;
+	display:block;
+}
+#special_title_contact_us{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -670px; 
+	width:236px; height:67px;
+	z-index:99;
+	left: -25px;
+	bottom: -75px;
+	display:block;
+}
+#special_title_jobs_at_hbo_asia{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block_long.png) no-repeat left -150px; 
+	width:304px; height:75px;
+	z-index:99;
+	left: -25px;
+	top: 3px;
+	display:block;
+}
+#special_title_faqs{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -737px; 
+	width:236px; height:67px;
+	z-index:99;
+	left: -25px;
+	bottom: -75px;
+	display:block;
+}
+#special_title_privacy_policy{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -871px; 
+	width:236px; height:67px;
+	z-index:99;
+	left: -25px;
+	bottom: -75px;
+	display:block;
+}
+#special_title_terms_of_use{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -804px; 
+	width:236px; height:67px;
+	z-index:99;
+	left: -25px;
+	bottom: -75px;
+	display:block;
+}
+#special_title_ep_highlights{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block_long.png) no-repeat left -225px; 
+	width:304px; height:75px;
+	z-index:99;
+	left: -25px;
+	top: 7px;
+	display:block;
+}
+#special_title_about_us{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -1072px; 
+	width:236px; height:67px;
+	z-index:99;
+	left: -25px;
+	bottom: -75px;
+	display:block;
+}
+#special_title_hd{
+	position:absolute;
+	background:url(/assets/img/core/cinemax_title_block.png) no-repeat left -1206px; 
+	width:236px; height:67px;
+	z-index:99;
+	left: -25px;
+	bottom: -75px;
+	display:block;
+}
+
+/* Cinemax Title Tab TW */
+#special_title_schedule.tw.zh, #special_title_schedule.hk.zh {
+	background:url(/assets/img/core/cinemax_title_block_tw.png) no-repeat left top; 
+}
+#special_title_thisweek.tw.zh, #special_title_thisweek.hk.zh {
+	background:url(/assets/img/core/cinemax_title_block_tw.png) no-repeat left -67px; 
+}
+#special_title_hbooriginal.tw.zh, #special_title_hbooriginal.hk.zh {
+	background:url(/assets/img/core/cinemax_title_block_tw.png) no-repeat left -134px; 
+}
+#special_title_highlights.tw.zh, #special_title_highlights.hk.zh{
+	background:url(/assets/img/core/cinemax_title_block_tw.png) no-repeat left -201px; 
+}
+#special_title_shows_listing.tw.zh, #special_title_shows_listing.hk.zh{
+	background:url(/assets/img/core/cinemax_title_block_tw.png) no-repeat left -268px; 
+}
+#special_title_subscribe.tw.zh, #special_title_subscribe.hk.zh{
+	background:url(/assets/img/core/cinemax_title_block_tw.png) no-repeat left -536px; 
+}
+#special_title_you_may_also_like.tw.zh, #special_title_you_may_also_like.hk.zh{
+	background:url(/assets/img/core/cinemax_title_block_long_tw.png) no-repeat left top; 
+}
+#special_title_time_this_week.tw.zh, #special_title_time_this_week.hk.zh{
+	background:url(/assets/img/core/cinemax_title_block_long_tw.png) no-repeat left -75px; 
+}
+#special_title_subscribe.tw.zh, #special_title_subscribe.hk.zh{
+	background:url(/assets/img/core/cinemax_title_block_tw.png) no-repeat left -536px;
+}
+#special_title_newsletter.tw.zh, #special_title_newsletter.hk.zh{
+	background:url(/assets/img/core/cinemax_title_block_tw.png) no-repeat left -670px;
+}
+#special_title_unsubscribe_newsletter.tw.zh, #special_title_unsubscribe_newsletter.hk.zh{
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left -938px;
+}
+#special_title_contact_us.tw.zh, #special_title_contact_us.hk.zh{
+	background:url(/assets/img/core/cinemax_title_block_tw.png) no-repeat left -469px;
+}
+#special_title_jobs_at_hbo_asia.tw.zh, #special_title_jobs_at_hbo_asia.hk.zh{
+	background:url(/assets/img/core/cinemax_title_block_tw.png) no-repeat left -804px;
+	height:67px;
+}
+#special_title_faqs.tw.zh, #special_title_faqs.hk.zh{
+	background:url(/assets/img/core/cinemax_title_block_tw.png) no-repeat left -335px;
+}
+#special_title_terms_of_use.tw.zh, #special_title_terms_of_use.hk.zh{
+	background:url(/assets/img/core/cinemax_title_block_tw.png) no-repeat left -402px;
+}
+#special_title_privacy_policy.tw.zh, #special_title_privacy_policy.hk.zh{
+	background:url(/assets/img/core/cinemax_title_block_tw.png) no-repeat left -737px;
+}
+#special_title_ep_highlights.tw.zh, #special_title_ep_highlights.hk.zh{
+	background:url(/assets/img/core/cinemax_title_block_tw.png) no-repeat left -871px;
+	height:67px;
+}
+#special_title_about_us.tw.zh, #special_title_about_us.hk.zh{
+	background:url(/assets/img/core/cinemax_title_block_tw.png) no-repeat left -1005px;
+}
+
+/* Cinemax Title Tab CN */
+#special_title_schedule.cn.zh {
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left top; 
+}
+#special_title_thisweek.cn.zh {
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left -67px; 
+}
+#special_title_hbooriginal.cn.zh {
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left -134px; 
+}
+#special_title_highlights.cn.zh{
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left -201px; 
+}
+#special_title_shows_listing.cn.zh{
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left -268px; 
+}
+#special_title_subscribe.cn.zh{
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left -335px; 
+}
+#special_title_you_may_also_like.cn.zh{
+	background:url(/assets/img/core/cinemax_title_block_long_cn.png) no-repeat left top; 
+}
+#special_title_time_this_week.cn.zh{
+	background:url(/assets/img/core/cinemax_title_block_long_cn.png) no-repeat left -75px; 
+}
+#special_title_newsletter.cn.zh{
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left -804px;
+}
+#special_title_unsubscribe_newsletter.cn.zh{
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left -938px;
+}
+#special_title_contact_us.cn.zh{
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left -469px;
+}
+#special_title_jobs_at_hbo_asia.cn.zh{
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left -402px;
+	height:67px;
+}
+#special_title_faqs.cn.zh{
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left -536px;
+}
+#special_title_terms_of_use.cn.zh{
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left -603px;
+}
+#special_title_privacy_policy.cn.zh{
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left -670px;
+}
+#special_title_ep_highlights.cn.zh{
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left -871px;
+	height:67px;
+}
+#special_title_about_us.cn.zh{
+	background:url(/assets/img/core/cinemax_title_block_cn.png) no-repeat left -1005px;
+}
+
+/* Cinemax Title Tab ID */
+#special_title_schedule.id {
+	background:url(/assets/img/core/cinemax_title_block_id.png) no-repeat left top; 
+}
+#special_title_thisweek.id {
+	background:url(/assets/img/core/cinemax_title_block_id.png) no-repeat left -67px; 
+}
+#special_title_highlights.id{
+	background:url(/assets/img/core/cinemax_title_block_long_id.png) no-repeat left -226px;
+	width:304px; height:75px;
+	top: 5px;
+}
+#special_title_shows_listing.id{
+	background:url(/assets/img/core/cinemax_title_block_long_id.png) no-repeat left -301px;
+	width:304px; height:75px;
+	top: 5px;
+}
+#special_title_you_may_also_like.id{
+	background:url(/assets/img/core/cinemax_title_block_long_id.png) no-repeat left -451px; 
+}
+#special_title_time_this_week.id{
+	background:url(/assets/img/core/cinemax_title_block_long_id.png) no-repeat left -526px; 
+}
+#special_title_contact_us.id{
+	background:url(/assets/img/core/cinemax_title_block_id.png) no-repeat left -134px;
+}
+#special_title_jobs_at_hbo_asia.id{
+	background:url(/assets/img/core/cinemax_title_block_long_id.png) no-repeat left -150px;
+}
+#special_title_terms_of_use.id{
+	background:url(/assets/img/core/cinemax_title_block_long_id.png) no-repeat left -376px;
+	width:304px; height:75px;
+	top: 5px;
+}
+#special_title_privacy_policy.id{
+	background:url(/assets/img/core/cinemax_title_block_long_id.png) no-repeat left 0px;
+	width:304px; height:75px;
+	top: 5px;
+}
+
+/* Button */
+.hboCommonBtn span {
+	background-position: right -92px;
+	color:#ffbb1c;
+}
+.hboCommonBtn {
+	background-position:left -92px;
+}
+
+.coutry_sel div.tag_select {
+	background: transparent url(../img/core/cinemax-dropdown-box.png) no-repeat 0 0;
+	color:#ffbb1c;
+}
+.coutry_sel div.tag_select_open {
+	background: transparent url(../img/core/cinemax-dropdown-box.png) no-repeat 0 0px;
+	color:#ffbb1c;
+}
+.coutry_sel ul.tag_options {
+	background: transparent url(../img/core/cinemax-dropdown-box.png) no-repeat right bottom;
+	color:#ffbb1c;
+}
+.coutry_sel ul.tag_options li {
+	background: transparent url(../img/core/cinemax-dropdown-box.png) repeat-y -188px 0;
+	color: #ffbb1c;
+}
+.coutry_sel ul.tag_options li:hover{
+	background:none #FFF !important;
+	color: #382c1c;
+}
+
+/* Page navigation */
+.page_nav_bottom_line{
+	background: url(../img/core/cinemax_nav_bottom_line.jpg) repeat-y;
+	height:2px;
+	background-color:#0b0400;
+	background-size: 100% auto;
+}
+.page_nav_bottom_line_position_cinemax_8, .page_nav_bottom_line_position_cinemax_7{
+	background-position:146px top;
+}
+.page_nav_bottom_line_position_cinemax_6, .page_nav_bottom_line_position_cinemax_5, .page_nav_bottom_line_position_cinemax_4{
+	background-position:-86 top;
+}
+.page_nav_bottom_line_position_cinemax_3, .page_nav_bottom_line_position_cinemax_2, .page_nav_bottom_line_position_cinemax_1{
+	background-position:-150px top;
+}

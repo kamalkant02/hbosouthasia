@@ -1,0 +1,35 @@
+.about_show_timer_box div.font_header, 
+.about_show_menu a.selected, 
+.shows_font,
+.show_thumb_title, .font_show_name, 
+.schedule_timer_list a.selected, 
+.shows_listing_tbl td a, 
+.shows_listing_tbl th a, 
+ol.numberic_bullet_listing li{
+    /*color:#c8a340 !important;*/
+    color:#fff !important;
+}
+.view_more_btn{
+    background-color:#c8a340;
+    border:1px solid #926f13;
+}
+.shows_listing_tbl th, .shows_listing_view_thumb.selected, .shows_listing_view_list.selected{
+    background-color:#af1423;
+}
+a.font_content:hover{
+    color:  #a60a00;
+}
+.schedule_time_section a.selected{
+    color:  #00a2e3;
+}
+.ep_highlight_link_block a.selected{
+    color:#000;
+}
+.block_background7{
+    background:url(../img/core/hbo_schedule_box.jpg) repeat-y top center;
+    background-color:#000;
+}
+.block_background_default{
+    background-color:#000;
+    padding:20px 0 20px 0;
+}

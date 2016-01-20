@@ -1,0 +1,430 @@
+@media all and (min-width: 320px) and (max-width: 996px) {
+    *::before, *::after {
+        box-sizing: border-box;
+    }
+    .container{ padding:0 20px 0 10px !important; box-sizing: border-box; margin-left:auto; margin-right:auto}
+    /*img{ max-width:100%; height:auto}*/
+    .channel_block_description.short{ width:100% !important; text-align:center;}
+
+    #footer_copyright {
+        float: none;
+    }
+    .shows_listing_block{ width:100% !important; box-sizing: border-box;}
+    div img{ display:inline}
+    /*    #channel_nav img{ width:112px !important; height:83px !important}*/
+}
+
+@media all and (min-width: 768px) and (max-width: 996px) {
+    .span_3_of_15 { width: 18.5% !important; }
+    .span_3_of_15.col{ margin-left:0.903614% !important; margin-bottom:10px; float:none; display:inline-block; vertical-align:top}
+    /*#nav_main_menu{ width:26% !important}*/
+    #nav_main_menu li{ padding: 34px 10px 0 !important}
+    /*#nav_search_bar{width:43% !important; float:right !important}*/
+    #nav_search_bar li{ display:inline-block !important; vertical-align:top}
+    .about-us-text{ width:70% !important;}
+    .marquee_item img{
+        height: 380px;
+    }
+    .tweet_button {
+        width: 36%;
+    }
+    
+    .schedule_time_wrap{
+        width: 83%;
+    }
+
+}
+@media all and (max-width: 996px) {
+    .newsletter_highlight_box{box-sizing: border-box; padding:15px 15px 15px 5px !important}
+    #nav_search_bar li form#nav_search_form{ margin-top:4px}
+
+    .span_4_of_15{ width:34.004% !important;}
+    .span_11_of_15{ width:65.0924% !important;}
+    .schedule_time_section.font_schedule.block_top_space{ overflow:hidden}
+
+    .block_background_body_bottom{ padding-bottom:40px !important}
+    .channel_block_main_thumb.border_shadow{ margin-top:10px}
+
+    #marquee, #marquee_container{ max-height:100% !important}
+
+    .marque-slide{ margin-left:0 !important; left:0 !important;}
+    .col.shows_listing_block.border_shadow a{ margin:0; display:block}
+/*    .block_container > form{ padding-top:30px}*/
+    /*.show_thumb_bg{ height:auto !important}*/
+    #fb-hbo{ margin-left:0% !important}
+    #marquee_nav_container{ display:none}
+    .shows_listing_block a img{ vertical-align:top}
+    #txtCmnt{ width:100% !important}
+    .footer_items_block a.back_to_top, .footer_items_block a{ margin-right:10% !important}
+
+    .weekly_update_block .span_7_of_15{ margin-bottom:30px}
+
+    /*    .channel_block_main_thumb{ margin-right:2%}*/
+    weekly_block_small_thumb, .show_block_type_1 {
+        margin-top: 15px !important;
+    }
+    .title_block{ margin-bottom:10px}
+    .weekly_block_small_thumb{ width:100%}
+    .col.span_11_of_15.font_content{ width:90% }
+    .block_schedule_container, .block_cast_container{ width:88% !important;}
+    .show_thumb_block{ width:49% !important}
+    .schedule_block_channel_fb_like{ position:inherit!important;}
+    .show_thumb_image{ text-align:center}
+}
+@media all and (max-width: 890px) {
+  /*  ul.schedule_timer_list{ display:none}*/
+    .schedule_time_section.font_schedule.block_top_space{ padding-bottom:0 !important}
+
+}
+
+
+
+@media all and (min-width: 1200px) {
+    .fb-userinfo span{ float:none !important}
+    .fb-userinfo{ text-align:right; float: right; margin-top:15px}
+}
+@media all and (max-width: 767px) {
+    .col:first-child, div.new_column{ margin-left:.903614% !important}
+    .span_6_of_15, .weekly_update_block .span_7_of_15, .channel_block_description.longer{ width:100% !important; text-align:center}
+    .span_9_of_15{ width:100% !important; margin:20px 0}
+    .g-img{ position: absolute; left:5px; bottom:5px; z-index:55}
+    .weekly_block_small_thumb img[src="http://www.hbosouthasia.com/uploads/apr15/thumb/lego.jpg"]{ height:168px}
+    .channel_section_header.bottom_spacing, .font_block_header{font-size: 15px !important;}
+    .marque-first-auto{ height: auto !important}
+    #main_nav_container ul.fb-userinfo{ 
+        float: none !important;
+        font-size: 13px;
+        margin: 0 !important;
+        position: absolute;
+        right: 15px;
+        top: 10px;
+        width: 25%;
+    }    
+    #channel_nav,
+    #channel_nav li{
+        width: 100%;
+        text-align: center;
+        margin: 0px;
+    }
+
+    #nav_search_bar{
+        text-align: center;
+        margin-top: 15px;
+    }
+    #nav_search_bar ul{ text-align:center}
+    #nav_search_bar li:last-child{ float:none; padding:4px 0; display:inline-block !important; width:100%}
+    #nav_search_bar li form#nav_search_form{ margin-top:0}
+
+    #nav_main_menu {   
+        width: 100% !important; 
+        margin-bottom:10px;
+        height:auto !important;
+        text-align: center;
+    }
+    #nav_main_menu li{
+        float: none !important;
+        display: inline-block;
+    }
+    #user-info img{ display:none}
+    .col.shows_listing_block.border_shadow.fb-did-hbo{ z-index:999}
+    /*.show_thumb_bg{ height:227px !important}*/
+    .show_thumb_time{ line-height:20px; margin-bottom:10px}
+    /*#block_schedule_nav_left, #block_schedule_nav_right{ height:300px !important}
+    */
+    #marquee_container{ height:270px !important}
+    #marquee_container p iframe{ width:90px !important}
+    .marquee_fade{ height: auto !important}
+    .mbsplash{ height:50px !important}
+    #page_nav_container{ z-index:99}
+    .marquee_content_hide .marquee_findoutmore{ font-size:14px; color:#fff !important}
+    .msynopsis{ display: none}
+    #nav_now_showing div.pre-nav.hm_mobile{ display:block !important; float:left; height:auto !important; top:-10px; background-image:none; padding:24px 0 0 0 !important; margin-left:0 !important}
+
+    #channel_nav .menu_channel{ background-image: none !important}
+    #nav_now_showing div.pre-nav{background-position:-10px -686px; background-image:url("../img/core/sprites.png"); background-repeat:no-repeat; height: 30px !important; padding: 25px 0 0 10px !important; margin-left:10px; float:left}
+
+    ul#channel_nav li:nth-child(2), ul#channel_nav li:nth-child(3){ display:none}
+    #nav_search_bar li form#nav_search_form{ margin-top:20px}
+    .marquee_content a.font_block_header, .marquee_content p.font_block_header{ font-size:18px !important; }
+    /*#block_schedule_header.slide_head_text{ display:block !important; clear:both; margin-bottom:0 !important; margin-top:15px !important}*/
+    .span_4_of_15{ width:41.004% !important;}
+    .span_11_of_15{ width:58.0924% !important;}
+    #main_nav_container ul:last-child{ margin-right:0 !important; }
+    #main_nav_container .country_popup_list_segment_column ul:last-child{ display:block !important}
+
+    #page_nav_container{ position:relative}
+    .marquee_content_hide{ display:block !important}
+    .title_block{ text-align:center; margin-bottom:30px}
+    .channel_section_header.bottom_spacing{ padding-bottom:0 !important}
+
+    .pre-nav a.font_content.font_small, #nav_main_menu .font_header{font-size: 14px; text-transform: uppercase;
+                                                                    font-weight: 600;}
+    /*#nav_search_form .nav_search_box_string, #nav_search_form2 .nav_search_box_string{ font-size:14px; height:10px}*/
+    /*    .footer-search{ display:none}*/
+    .marquee_fade {
+        position:relative !important;	
+    }
+    .marquee_fade .container{
+        padding: 0px !important;
+    }
+    .marquee_content{ width:100%!important; left:0!important; height:125px !important}	
+    #fb-hbo{ margin:25px 0 0}
+    blockquote{ margin:0 !important}
+    .bottom_spacing.channel_section_header{padding-top: 0px !important;}
+    /*    .page_title, h2.movie_title, h2.page_title{font-size: 18px !important}*/
+    .channel_section_header.bottom_spacing, .font_block_header{ text-align:center; font-size:20px !important}
+    .channel_section_header.bottom_spacing p,
+    .channel_section_header.bottom_spacing h3.subtitle
+    {
+        text-align: left;
+    }
+    .marquee_right_arrow {
+        background: url("../img/core/marquee-pointer-arrow-mb.png") no-repeat scroll -18px top rgba(0, 0, 0, 0) !important;   
+        right:10px !important;	
+    }
+    .marquee_right_arrow, .marquee_left_arrow {
+        height:49px  !important;
+        top: 75px !important;
+        width:18px !important;	
+        opacity: 1 !important;	
+
+    }
+    .marquee_left_right_container{z-index:9999 !important;}
+    .marquee_left_arrow {
+        background: url("../img/core/marquee-pointer-arrow-mb.png") no-repeat scroll left top rgba(0, 0, 0, 0) !important;
+        left:10px !important;    
+    }
+    .shows_listing_block{ padding:0 20px 10px !important; margin-bottom:0 !important}
+    .heart{ width:auto !important; margin-right:15px !important; float: none !important; margin: 3px 15px 0 !important; vertical-align:middle; display:inline-block}
+    .highlight_block_line{ padding-top:20px}
+    #nav_search_bar {
+        width: 100%!important;
+    }
+    /*#nav_search_bar {
+        float: none !important;
+            top:10px;
+            height:40px !important;
+            padding:0 !important;
+            position: inherit; left:0       
+    }*/
+    #page_nav_container{ height:auto !important;}
+    #nav_search_bar li form#nav_search_form {
+        float: none !important;
+        width: auto !important;
+    }
+    #nav_search_bar li:last-child{ float:right; padding:4px 0; display:block !important}
+    #nav_search_bar li{ display:none !important}
+    #marquee_container{ margin-top:20px}
+    #nav_search_bar li{ margin-left: -6px !important}
+    #nav_search_bar li a[rel="nofollow"], #nav_search_bar li a[rel="publisher"]{ display:none}
+    #main_nav_container ul:last-child{ margin-top:0}
+    #nav_now_showing{ height:auto !important; padding-top:10px !important}
+    /*#nav_main_menu li {
+        padding: 25px 10px 0 !important;
+            height:30px !important;  
+    }*/
+    /*    .view_full_schedule{ display:none !important}*/
+    #nav_now_showing div{ position: inherit !important;}
+    /*    .shows_listing_view_type_txt{ display:none}*/
+    .block_container.block_background4{ margin-top:0 !important;}
+    .about-us-text, .highlight-list2{ width:100% !important;}
+    .highlight-list2{margin-bottom: 15px;}
+    .highlight-list2 li{ width:auto !important;border-bottom: none;}
+    .highlight-list2 li a{ display:block}
+    .about-us-text div{ margin:0  !important; padding:10px 0 0 !important}
+    .movie_title{ clear:both}
+    #block_schedule_header{ padding-top:0 !important; margin-bottom:20px}
+    .channel_block_main_thumb{ margin-right:0%}
+    .channel_block_main_thumb.border_shadow{ background: none}
+    .weekly_block_small_thumb{ width:100%; margin:20px 0px 0 0 !important; float:none !important; display:inline-block !important}
+    .about-us-text{ width:100%; float:none}
+    /*    #footer_copyright { float: left !important; margin:10px 0 20px; width:100% }
+        .page_copyright { text-align:center}*/
+    .download-btn{    float: left;}
+    .col.span_2_of_15, .channel_block_main_thumb{ width:100%; text-align:center}
+    .col.span_2_of_15 img{ display:inline}
+    .block_background_footer .span_3_of_15{ width:30%}
+    /*    .footer_items_block div{ float:none !important; text-align:left !important}*/
+    .back_to_top{ margin-right:10%}
+    .channel_block_third_thumb.span_3_of_15 { width:31% !important; text-align:center;}
+    .span_3_of_15.col{ margin-bottom:15px; float:none; display:inline-block; vertical-align:top}
+    .channel_block_third_thumb img{ display:inline}
+    .shows_listing_alphabet > a{ margin-left:-10px}
+    .highlight-list2 li{ width:auto; float:left; margin:0 2px 0px 0px; }
+    .highlight-list2 li:first-child{ margin-left:0 !important; text-align:center}
+    .highlight-list2 a{ 
+        margin-left:0 !important;
+        padding:10px; 
+        width: auto;
+    }
+    .highlight-list2 li a.active {    
+        background: #00589b;
+        background: -moz-linear-gradient(top, #00589b 0%, #01254a 100%);
+        background: -webkit-gradient(left top, left bottom, color-stop(0%, #00589b), color-stop(100%, #01254a));
+        background: -webkit-linear-gradient(top, #00589b 0%, #01254a 100%);
+        background: -o-linear-gradient(top, #00589b 0%, #01254a 100%);
+        background: -ms-linear-gradient(top, #00589b 0%, #01254a 100%);
+        background: linear-gradient(to bottom, #00589b 0%, #01254a 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00589b', endColorstr='#01254a', GradientType=0 );
+    }
+    #nav_now_showing{ width:145px !important; padding-right:5px !important}
+    #country_selector div.country_name{ width:auto !important}
+    /*    #country_selector, #country_selector ul{ width:20% !important}*/
+    #country_selector li{ width:100% !important}
+    .glow, #special_title_thisweek, #special_title_hbooriginal{
+        background:url(../img/core/hbo_glow.png) no-repeat center bottom;
+        height:90px; width:100%; 
+    }
+    #special_title_thisweek, #special_title_hbooriginal{ bottom:-20px}
+    .channel_block_main_thumb.border_shadow img {
+        width: 225px;
+        display:inline
+    }
+    #special_title_hbooriginal{ height:55px; position:absolute}
+    .glow, #special_title_thisweek{
+        background:url(../img/core/hbo_glow.png) no-repeat center bottom;
+        height:90px; width:100%; 
+    }
+    /*.show_thumb_image{ height:127px !important; margin-bottom:3px}*/
+    .timeline_full_width > div:first-child, #hide-xs, .schedule_time_section.font_schedule.block_top_space, #timeline_time_now_quote{ display:none !important}
+    .schedule_timeline_odd{
+        display: inline-block !important;
+        height: auto;
+        width: 33% !important;
+        margin-bottom:2px
+    }
+    .timeline_full_width{
+        height: auto !important;
+        left: 0 !important;
+        width: 100% !important;
+        position:inherit !important
+    }
+    .block_schedule_top_space .shows_font{ margin-bottom:5px}
+    .schedule_timeline_mask{height: auto !important;}
+
+    .footer-search{
+        float:left;
+        margin-top: 15px;
+    }  
+    #marquee_container {
+        height: 375px !important;
+    }
+    .marquee_item img{
+        height: 250px;
+        width: 100%;
+    }
+    .form-ui .column.span_1_of_15{
+        display: none;
+    }
+}
+
+@media all and (max-width: 600px) {
+
+    /*.span_4_of_15, .span_11_of_15{ width:100% !important; text-align:center; margin-top:15px}*/
+    #block_schedule_channel_list.span_2_of_15{ display:none}
+    .calendar_container{ margin:0 0 20px 0 !important}
+    .block_schedule_container, .block_cast_container{ width:83% !important; height:auto !important}
+    .show_thumb_block, .newsletter_highlight_box_content .span_7_of_15{ width:100% !important}
+    .highlight-list2 li{ margin:0 3% !important }
+    .space-mb, #channel_nav li:nth-child(2), #channel_nav li:nth-child(3), #channel_nav a[href="http://hbohits.in/"], #channel_nav a[href="http://hbodefined.in/"]{ display:none}
+    .social_icon{ overflow:hidden;}
+    .facebook_button{ 
+        width:40% !important; 
+    }
+    .gplus_button{ 
+        width:30% !important;
+    }
+    .tweet_button{ 
+        width:52% !important; 
+    }
+    .hbolike_button{ 
+        width:25% !important; 
+    }
+    #channel_nav img{ width: auto !important ; height:auto !important }
+    /*    .shows_listing_alphabet, .shows_listing_clear_check, .view_full_schedule{ float:none !important; clear:both; margin: 0%;}*/
+    .channel_block_third_thumb.span_3_of_15 { width:48.5% !important; }
+    .channel_block_third_thumb.span_3_of_15, .block_background4.span_3_of_15.col, .social_icon { text-align:center;}
+    .block_background4.span_3_of_15.col{ margin-bottom:10px; float:none; display:inline-block; vertical-align:top; width:48.5% !important}
+    .glow_position{ bottom:-15px !important; height: 45px !important}
+    .block_background_footer .span_3_of_15{ width:48% !important}    
+    #marquee_container {
+        height: 375px !important;
+    }
+    .marquee_item img{
+        height: 250px;
+        width: 100%;
+    }
+}
+@media all and (max-width: 480px) {
+    .schedule_timeline_odd{
+        display: inline-block !important;
+        height: auto;
+        width: 50% !important;
+        margin-bottom:2px
+    }
+    .popup_rightblock .special_font, .popup_rightblock .special_font a, .popup_rightblock .show_divider:last-child { font-size:14px !important}
+    .marquee_right_arrow, .marquee_left_arrow {
+        height:49px  !important;
+        top: 65px !important;
+        width:18px !important;	
+        opacity: 1 !important;	
+
+    }
+    .block_background_footer .span_3_of_15{ text-align:left}
+
+    .block_schedule_container, .block_cast_container{ width:76% !important; height:auto !important}
+    .highlight-list2 li{ margin:0 1% !important; }
+
+    .footer_items_block a.back_to_top{ margin-right:5% !important; top:25px}
+    .col{ margin-left:0 !important}
+    .footer_items_block a{ margin-right:0 !important}
+    #now_showing{ display:none}
+    .channel_block_third_thumb.span_3_of_15{ width:100% !important}
+    .shows_listing_alphabet a{ /*margin:-8px;*/ font-size:14px !important}
+    .channel_block_third_thumb.span_3_of_15{ text-align:center !important;}
+    .channel_block_third_thumb.span_3_of_15{ text-align:center !important;}
+    /*    .footer_items_block div{ float:none !important;}*/
+    #nav_search_form .nav_search_box_string, #nav_search_form2 .nav_search_box_string{
+        width: 130px;
+    }
+    .back_to_top {
+        margin-right: 10%;
+        margin-top: 0;
+        position: absolute;
+        right: 0;
+        top: 0px;
+    }
+    .back_to_top::before{
+        right: 0px;
+    }
+    .fb-btn-wrap{
+        display: none;
+        visibility: hidden;
+    } 
+    #marquee_container {
+        height: 325px !important;
+    }
+    .marquee_item img{
+        height: 200px;
+        width: 100%;
+    }
+}
+@media all and (max-width: 400px) {
+    #nav_main_menu {   
+        margin-bottom:10px;	
+    }    
+    #marquee_container {
+        height: 305px !important;
+    }
+    .marquee_item img{
+        height: 180px;
+        width: 100%;
+    }
+    /*   .span_4_of_15{ margin-top:45px !important}*/
+    .span_11_of_15 { margin-top:25px !important}
+    .schedule_time_section.font_schedule{ font-size:12px; margin-top:10px}
+    .about-us-text a[href="http://www.hbosouthasia.com/"]{ display:block}
+    .font_block_header shows_font{ font-size:15px !important}
+    /*#nav_now_showing a.font_content, #nav_main_menu a.font_content{ font-size:12px !important}*/
+    #nav_now_showing{ width:125px !important; padding-right:0px !important}
+}

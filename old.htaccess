@@ -1,0 +1,14 @@
+ErrorDocument 404 /404.php
+
+
+
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule movie-(.*)-(.*)\.php$ moviepreview.php?id=$2
+
+
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule (.*)-movies.php$ category.php?q=$1
+
+

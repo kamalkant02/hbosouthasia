@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:/uploads/*
+Disallow:/images/*
+Disallow:/videos/*
+Disallow:/banners/*
+Disallow:/hbo-orginals/*
+
+sitemap: http://www.hbosouthasia.com/sitemap.xml
